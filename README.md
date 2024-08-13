@@ -1,2 +1,1 @@
 # GradientOfAFunction
-My First Video
