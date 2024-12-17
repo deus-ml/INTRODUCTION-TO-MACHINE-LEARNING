@@ -1,2 +1,2 @@
 # INTRODUCTION TO MACHINE LEARNING 
-<img height="500" src="GD Wallpaper.png" width="1000"/>
+<img height="500" src="Playlist Banner.png" width="1000"/>
